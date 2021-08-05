@@ -2,10 +2,10 @@
 
 This tool can automatically play sudoku on sudoku.com with an extremely speed.
 How it works?
-- First, it captures the board from sudoku.com and save it
+- First, it captures the board from sudoku.com and saves it
 <img width="584" alt="original" src="https://user-images.githubusercontent.com/75875212/128294885-2a414030-d65c-4961-a416-bd1efe4957ef.png">
 
-- Then it convert image to an 9x9 array by detecting where is blank, where is number (and what that number is).
+- Then it converts image to an 9x9 array by detecting where is blank, where is number (and what that number is).
 <img width="540" alt="detect" src="https://user-images.githubusercontent.com/75875212/128294626-f9b0ec56-5f57-40e9-8d38-8e1050d6538c.png">
 
 - Solve the board and autofill on sudoku.com
