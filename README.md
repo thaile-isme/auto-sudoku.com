@@ -1,4 +1,4 @@
-# destroy_sudoku
+# Auto sudoku.com
 
 This tool can automatically play sudoku on sudoku.com with an extremely speed.
 How it works?
